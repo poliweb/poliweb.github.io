@@ -1,3 +1,3 @@
 # poliweb.github.io
 
-## Первоя страница на GitHub
+## Первая страница на GitHub
