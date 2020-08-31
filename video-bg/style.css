@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+}
+.bg1 {
+	position: relative;
+	width: 100%;
+	min-height: 100vh;
+}
+.maska {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: url('https://imageup.ru/img250/3573332/facebook-post_video.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	/* 	background-color: rgba(0,0,0,0.5);  */
+	width: 100%;
+	height: 100%;
+	z-index: 3;
+}
+
+.maska2 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: url('https://imageup.ru/img250/3573331/facebook-post-2.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	/*   background-color: rgba(0,0,0,0.5); */
+	width: 100%;
+	height: 100%;
+	z-index: 3;
+}
+
+.maska3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: url('ing/BG_VideoForms.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	/* 	background-color: rgba(0,0,0,0.5);  */
+	width: 100%;
+	height: 100%;
+	z-index: 3;
+}
+
+#video-background {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	right: 0;
+	width: 100%;
+	height: 100%;
+	background-size: 100% 100%;
+	background-color: #fff;
+	background-image: /* our video */ ;
+	background-position: center center;
+	background-size: contain;
+	-o-object-fit: cover;
+	object-fit: cover;
+	z-index: 1;
+}
+
+/* 
+Content Page 
+CSS Настройки для блока Контента
+
+*/
+
+.Logo-Menu {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	align-content: center;
+	position: relative;
+	height: 60px;
+	padding-top: 50px;
+	padding-left: 10%;
+	padding-right: 10%;
+	z-index: 15;
+	/* 	border-bottom: 1px solid #E8802A; */
+}
+.logo {
+	justify-self: start;
+}
+
+.burgers {
+	justify-self: end;
+	align-self: center;
+	cursor: pointer;
+	position: relative;
+	height: 21px;
+}
+.line1,
+.line2,
+.line3 {
+	display: block;
+	width: 30px;
+	height: 3px;
+	background-color: #e8802a;
+	margin-bottom: 6px;
+}
+
+.conent_Hero {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	align-content: center;
+	position: relative;
+	padding-top: 80px;
+	padding-left: 10%;
+	padding-right: 10%;
+	z-index: 15;
+}
+.contentLeft {
+	justify-self: start;
+	align-self: center;
+	padding-right: 100px;
+}
+
+.titel {
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	line-height: 56px;
+	margin-bottom: 40px;
+}
+
+.content {
+	position: relative;
+	color: #c5d0e6;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 34px;
+	margin-bottom: 30px;
+}
+.but {
+	display: inline-block;
+	cursor: pointer;
+	background: #a51fca;
+	border-radius: 5px;
+	padding: 15px 30px;
+	color: #c5d0e6;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 21px;
+}
+.contentRight {
+	justify-self: end;
+	align-self: center;
+}
+.pictureHero {
+	width: 100%;
+	min-width: 250px;
+	max-width: 800px;
+}
+
+/*
+@media  1280px 
+*/
+@media only screen and (max-width: 1280px) {
+	.conent_Hero {
+		padding-top: 50px;
+	}
+	.contentLeft {
+		padding-right: 80px;
+	}
+	.titel {
+		font-size: 38px;
+		line-height: 46px;
+		margin-bottom: 30px;
+	}
+	.content {
+		color: #c5d0e6;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: 300;
+		font-size: 18px;
+		line-height: 24px;
+		margin-bottom: 30px;
+	}
+	.but {
+		padding: 10px 20px;
+		font-size: 16px;
+		line-height: 21px;
+	}
+}
+/*
+@media  1024px 
+*/
+@media only screen and (max-width: 1024px) {
+	.contentLeft {
+		padding-right: 50px;
+	}
+	.titel {
+		font-size: 28px;
+		line-height: 36px;
+		margin-bottom: 30px;
+	}
+	.content {
+		color: #3a3a3b;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: 300;
+		font-size: 16px;
+		line-height: 24px;
+		margin-bottom: 30px;
+	}
+}
+/*
+@media  768px 
+*/
+@media only screen and (max-width: 768px) {
+	.Logo-Menu {
+		padding-top: 0;
+	}
+	.contentLeft {
+		padding-right: 35px;
+	}
+	.titel {
+		font-size: 20px;
+		line-height: 26px;
+		margin-bottom: 30px;
+	}
+	.content {
+		color: #3a3a3b;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: 300;
+		font-size: 14px;
+		line-height: 18px;
+		margin-bottom: 20px;
+	}
+}
