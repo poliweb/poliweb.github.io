@@ -1,0 +1,9 @@
+Для запуска работы Stylus в терминале вести командную строку:
+stylus -w -m style/style.styl --out css/style.css
+
+
+-w = скомпилирует файл стилуса из командной строки 
+Примеры!
+(stylus -w style.styl -o style.css),
+(stylus -w style/style.styl --out css/style.css)
+-m = Создатёт исходную карту для CSS
