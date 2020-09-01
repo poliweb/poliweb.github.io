@@ -75,8 +75,8 @@
 	z-index: 1;
 }
 
-/* 
-Content Page 
+/*
+Content Page
 CSS Настройки для блока Контента
 
 */
@@ -93,6 +93,11 @@ CSS Настройки для блока Контента
 	z-index: 15;
 	/* 	border-bottom: 1px solid #E8802A; */
 }
+
+.LogoType img {
+	width: 200px;
+}
+
 .logo {
 	justify-self: start;
 }
@@ -173,7 +178,7 @@ CSS Настройки для блока Контента
 }
 
 /*
-@media  1280px 
+@media  1280px
 */
 @media only screen and (max-width: 1280px) {
 	.conent_Hero {
@@ -203,7 +208,7 @@ CSS Настройки для блока Контента
 	}
 }
 /*
-@media  1024px 
+@media  1024px
 */
 @media only screen and (max-width: 1024px) {
 	.contentLeft {
@@ -225,7 +230,7 @@ CSS Настройки для блока Контента
 	}
 }
 /*
-@media  768px 
+@media  768px
 */
 @media only screen and (max-width: 768px) {
 	.Logo-Menu {
