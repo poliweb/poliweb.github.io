@@ -739,7 +739,7 @@ section {
 
 /*  CSS Модальные окна */
 .modal {
-    background-image: url(/img-theme/bg_form.jpg);
+    background-image: url('/template/beauty-saloon/img-theme/bg_form.jpg');
     background-size: cover;
     background-position: center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.8);
@@ -750,7 +750,7 @@ section {
 }
 
 .modal a.close-modal {
-    background-image: url(/img-theme/close-modal.png);
+    background-image: url('/template/beauty-saloon/img-theme/close-modal.png');
     transition: 0.4s;
 }
 
