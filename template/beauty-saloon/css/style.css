@@ -40,7 +40,7 @@ body {
 /* Блок header */
 .header {
     position: relative;
-    background-image: url(/img-theme/bg_header.svg);
+    background-image: url('./img-theme/bg_header.svg');
     background-size: cover;
     background-position-y: center;
     min-height: 100vh;
