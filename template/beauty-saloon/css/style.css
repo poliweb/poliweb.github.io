@@ -40,7 +40,7 @@ body {
 /* Блок header */
 .header {
     position: relative;
-    background-image: url('./img-theme/bg_header.svg');
+    background-image: url('/template/beauty-saloon/img-theme/bg_header.svg');
     background-size: cover;
     background-position-y: center;
     min-height: 100vh;
@@ -236,7 +236,7 @@ section {
     grid-column: 8 / 13;
     grid-row: 1 / 5;
     min-height: 100%;
-    background-image: url(/img/ledi2.png);
+    background-image: url('/template/beauty-saloon/img/ledi2.png');
     background-repeat: no-repeat;
     height: 89vh;
     background-position: top, left;
