@@ -1,6 +1,5 @@
 /* ./your-css-folder/styles.css */
 
-
 * {
 	padding: 0;
 	margin: 0;
@@ -71,8 +70,7 @@
 	background-size: 100% 100%;
 	background-color: #fff;
 	background-image:
-		/* our video */
-	;
+		/* our video */ ;
 	background-position: center center;
 	background-size: contain;
 	-o-object-fit: cover;
@@ -136,6 +134,14 @@ CSS Настройки для блока Контента
 	z-index: 15;
 }
 
+.text-orang {
+	color: #e8802a;
+}
+
+.bg-orang {
+	background-color: #e8802a;
+}
+
 .contentLeft {
 	justify-self: start;
 	align-self: center;
@@ -153,7 +159,6 @@ CSS Настройки для блока Контента
 
 .content {
 	position: relative;
-	color: #c5d0e6;
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: 300;
