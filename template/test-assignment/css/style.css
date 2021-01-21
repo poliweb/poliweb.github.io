@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@100;200;300;400;500;600;700;800&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+.font-family-e-s-c {
+	font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+.backgroundImage1 {
+	background-image: url('../img/bg1.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.backgroundImage2 {
+	background-image: url('../img/bg2.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+.backgroundImage3 {
+	background-image: url('../img/bg3.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: auto;
+}
+.color-orange {
+	color: #f26c22;
+}
+.bg-orange {
+	background: #f26c22;
+}
+
+.h-550 {
+	height: 550px; /* Высота блока */
+}
