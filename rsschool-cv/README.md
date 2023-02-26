@@ -1,4 +1,4 @@
 # rsschool-cv
-RS School Курс "JavaScript/Front-end"
+RS School Курс "JavaScript/Front-end +++"
 
-(https://poliweb.github.io/rsschool-cv/cv)
+[CV](https://poliweb.github.io/rsschool-cv/cv)
