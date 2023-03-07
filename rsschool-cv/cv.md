@@ -19,6 +19,8 @@ My professional skills: **FIGMA, HTML5, CSS3, Tailwind CSS, JS, Vue js, Nuxt js,
 
 ![Web Developer PoliWeb](https://media.licdn.com/dms/image/C4E16AQGRKkfyQ33T3w/profile-displaybackgroundimage-shrink_350_1400/0/1589350631858?e=1683158400&v=beta&t=xJbuzT-uAQC5WdX1KgkDsIOhilk27bQwCw0n_gpRHKw)
 
+
+
 💻  **My code example** 
 
 The full code of the main page on the client. **ToDo applications**, **Vue js framework. Using PWA and Tailwind CSS  technology**.
@@ -59,6 +61,8 @@ You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
 
 -------------------------------------------------------------
 
+
+
 📖  **My education:**
 
 1. High Tech for Human specialist, PHP Programming - 2008 Year.
@@ -70,6 +74,7 @@ You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
 _My English is at a low level, due to a lack of communication_
 
 -------------------------------------------------------------
+
 
 
 ## Contacts
