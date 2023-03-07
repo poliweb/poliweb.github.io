@@ -9,7 +9,7 @@ _Tel:_   **+7 701 721 1284**
 
 I am a web developer from Kazakhstan, the city of Alma-Ata. My experience is more than ten years. I like to follow the development of IT technologies and learn new knowledge every day with the opportunity to develop my web developer skills. My goal is to achieve excellence in writing code, to have a strong skill in developing world-class websites and web applications.
 
-I like the Jamstack methodology, an architectural approach that separates the web interface layer from data and business logic, increasing flexibility, scalability, performance and usability.
+I like the Jamstack methodology, an architectural approach that separates the web interface layer from data and business logic, increasing flexibility, scalability, performance and usability. 
 
 **My priority:** _Lifelong learning and everyday practice in writing code for web applications with deep immersion in a working project..._
 
@@ -69,6 +69,7 @@ You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
 
 =====
 
+_My English is at a low level, due to a lack of communication_
 ## Contacts
 
 _Tel:_  +7 701 721 1284
