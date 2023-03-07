@@ -18,15 +18,32 @@ My professional skills: **FIGMA, HTML5, CSS3, Tailwind CSS, JS, Vue js, Nuxt js,
 ![Web Developer PoliWeb](https://media.licdn.com/dms/image/C4E16AQGRKkfyQ33T3w/profile-displaybackgroundimage-shrink_350_1400/0/1589350631858?e=1683158400&v=beta&t=xJbuzT-uAQC5WdX1KgkDsIOhilk27bQwCw0n_gpRHKw)
 
 
-**An example of a code snippet from the Vue js framework.**
+The full code of the main page on the client. **ToDo applications**, **Vue js framework. Using PWA and Tailwind CSS  technology**.
+
+The demo of the project can be found at the link [todo.poliweb.su](https://todo.poliweb.su/)
 
 ```
-    <p>{{ todo }}</p>
-    <div class="flex justify-between mb-8">
-        <input v-model="todo" type="text" placeholder="Todo..." @keyup.enter="addTodo(id++)"
-          class="inputTodo placeholder:text-pink-600" />
-        <button @click="addTodo(id++)" class="btn">Add ToDo</button>
-    </div>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ToDo</title>
+  <meta name="description" content="To Do поможет вам сосредоточиться на любом занятии — от работы до подготовки к путишествию.">
+  <meta name="theme-color" content="#db2777"/>
+  <link rel="icon" href="/favicon.svg" />
+  <link rel="apple-touch-icon" href="/icon-192x192.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#db2777">
+  <script type="module" crossorigin src="/assets/index.9dfce00b.js"></script>
+  <link rel="modulepreload" href="/assets/vendor.749ae498.js">
+  <link rel="stylesheet" href="/assets/index.a15df4b1.css">
+<link rel="manifest" href="/manifest.webmanifest"></head>
+
+<body>
+  <div id="app"></div>
+</body>
+
+</html>
 ```
 
 *Think of me as an extension of your team.*
