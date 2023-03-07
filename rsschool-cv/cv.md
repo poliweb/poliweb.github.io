@@ -46,7 +46,10 @@ The demo of the project can be found at the link [todo.poliweb.su](https://todo.
 </html>
 ```
 
+You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
+
 *Think of me as an extension of your team.*
+
 
 ## Contacts
 
