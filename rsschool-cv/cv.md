@@ -29,7 +29,7 @@ The demo of the project can be found at the link [todo.poliweb.su](https://todo.
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ToDo</title>
-  <meta name="description" content="To Do поможет вам сосредоточиться на любом занятии — от работы до подготовки к путишествию.">
+  <meta name="description" content="To Do поможет вам сосредоточиться на любом занятии.">
   <meta name="theme-color" content="#db2777"/>
   <link rel="icon" href="/favicon.svg" />
   <link rel="apple-touch-icon" href="/icon-192x192.png">
