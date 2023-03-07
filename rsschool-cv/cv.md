@@ -49,6 +49,10 @@ The demo of the project can be found at the link [todo.poliweb.su](https://todo.
 
 You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
 
+🖥️  **Examples of my work**
+1. Prototype of the site [CHEF BREAKFAST caffe bistro master](https://chef-breakfast.netlify.app/)
+2. Prototype of the site [FASHION MODELS](https://pw-model-agency.netlify.app/)
+
 *Think of me as an extension of your team.*
 
 =====
