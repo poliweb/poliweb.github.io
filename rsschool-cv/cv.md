@@ -13,11 +13,21 @@ I like the Jamstack methodology, an architectural approach that separates the we
 
 My priority: _Lifelong learning and everyday practice in writing code for web applications with deep immersion in a working project..._
 
-My professional skills: **FIGMA, HTML5, CSS3, JS, Vue js, Nuxt js, Laravel, GitHub, Netlify, Heroku, Cloudinary Platform.**
+My professional skills: **FIGMA, HTML5, CSS3, Tailwind CSS, JS, Vue js, Nuxt js, Laravel, GitHub, Netlify, Heroku, Cloudinary Platform.**
 
 ![Web Developer PoliWeb](https://media.licdn.com/dms/image/C4E16AQGRKkfyQ33T3w/profile-displaybackgroundimage-shrink_350_1400/0/1589350631858?e=1683158400&v=beta&t=xJbuzT-uAQC5WdX1KgkDsIOhilk27bQwCw0n_gpRHKw)
 
 
+**An example of a code snippet from the Vue js framework.**
+
+```
+    <p>{{ todo }}</p>
+    <div class="flex justify-between mb-8">
+        <input v-model="todo" type="text" placeholder="Todo..." @keyup.enter="addTodo(id++)"
+          class="inputTodo placeholder:text-pink-600" />
+        <button @click="addTodo(id++)" class="btn">Add ToDo</button>
+    </div>
+```
 
 *Think of me as an extension of your team.*
 
