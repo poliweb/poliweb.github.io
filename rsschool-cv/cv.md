@@ -67,7 +67,7 @@ You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
 
 3. Vue JS 3: Composition APU (with Pinia, Firebase 9 & Vite) 04.07.2022 from teacher Danny Connell. 🏆 [Certificate](https://www.udemy.com/certificate/UC-d3e0a10c-eb61-4f91-8a99-5a0a2c6dc4ef/)
 
-=====
+===
 
 _My English is at a low level, due to a lack of communication_
 ## Contacts
