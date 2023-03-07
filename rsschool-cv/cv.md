@@ -82,4 +82,4 @@ _Site:_ [My Site](https://todo.poliweb.su/)
 
 [_Linkedin_ ](https://www.linkedin.com/in/poliweb/)
 
-*_I am always ready to be useful to your team, startup and business!_*
+🎖️ _I am always ready to be useful to your team, startup and business!_
