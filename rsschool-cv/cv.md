@@ -17,6 +17,7 @@ My professional skills: **FIGMA, HTML5, CSS3, Tailwind CSS, JS, Vue js, Nuxt js,
 
 ![Web Developer PoliWeb](https://media.licdn.com/dms/image/C4E16AQGRKkfyQ33T3w/profile-displaybackgroundimage-shrink_350_1400/0/1589350631858?e=1683158400&v=beta&t=xJbuzT-uAQC5WdX1KgkDsIOhilk27bQwCw0n_gpRHKw)
 
+💻  **My code example** 
 
 The full code of the main page on the client. **ToDo applications**, **Vue js framework. Using PWA and Tailwind CSS  technology**.
 
@@ -52,13 +53,13 @@ You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
 
 =====
 
-**My education:**
+📖  **My education:**
 
 1. High Tech for Human High Tech for Human specialist, PHP Programming - 2008 Year.
 
-2. Master JavaScript animation with Greensock 07.01.2023 from teacher Enzo Ustaris on Demes.[Certificate](https://www.udemy.com/certificate/UC-acd51752-6eca-4856-8310-e023582f1440/)
+2. Master JavaScript animation with Greensock 07.01.2023 from teacher Enzo Ustaris on Demes.  🏆 [Certificate](https://www.udemy.com/certificate/UC-acd51752-6eca-4856-8310-e023582f1440/)
 
-3. Vue JS 3: Composition APU (with Pinia, Firebase 9 & Vite) 04.07.2022 from teacher Danny Connell. [Certificate](https://www.udemy.com/certificate/UC-d3e0a10c-eb61-4f91-8a99-5a0a2c6dc4ef/)
+3. Vue JS 3: Composition APU (with Pinia, Firebase 9 & Vite) 04.07.2022 from teacher Danny Connell. 🏆 [Certificate](https://www.udemy.com/certificate/UC-d3e0a10c-eb61-4f91-8a99-5a0a2c6dc4ef/)
 
 =====
 
