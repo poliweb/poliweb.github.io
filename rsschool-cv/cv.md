@@ -11,7 +11,9 @@ I am a web developer from Kazakhstan, the city of Alma-Ata. My experience is mor
 
 I like the Jamstack methodology, an architectural approach that separates the web interface layer from data and business logic, increasing flexibility, scalability, performance and usability.
 
-My priority: _Lifelong learning and everyday practice in writing code for web applications with deep immersion in a working project..._
+**My priority:** _Lifelong learning and everyday practice in writing code for web applications with deep immersion in a working project..._
+
+**My strengths:** _As a true samurai, I have made my way into IT through self-education._
 
 My professional skills: **FIGMA, HTML5, CSS3, Tailwind CSS, JS, Vue js, Nuxt js, Laravel, GitHub, Netlify, Heroku, Cloudinary Platform.**
 
