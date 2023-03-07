@@ -57,7 +57,7 @@ You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
 
 *Think of me as an extension of your team.*
 
-=====
+-------------------------------------------------------------
 
 📖  **My education:**
 
@@ -67,7 +67,7 @@ You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
 
 3. Vue JS 3: Composition APU (with Pinia, Firebase 9 & Vite) 04.07.2022 from teacher Danny Connell. 🏆 [Certificate](https://www.udemy.com/certificate/UC-d3e0a10c-eb61-4f91-8a99-5a0a2c6dc4ef/)
 
-===
+-------------------------------------------------------------
 
 _My English is at a low level, due to a lack of communication_
 ## Contacts
@@ -81,5 +81,7 @@ _Site:_ [My Site](https://todo.poliweb.su/)
 [ _CodePen_ ](https://codepen.io/poliweb)
 
 [_Linkedin_ ](https://www.linkedin.com/in/poliweb/)
+
+-------------------------------------------------------------
 
 🎖️ _I am always ready to be useful to your team, startup and business!_
