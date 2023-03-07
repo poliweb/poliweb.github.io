@@ -1,3 +1,3 @@
 # [rsschool-cv](https://poliweb.github.io/rsschool-cv/cv)
 
-## PoliWeb++
+## PoliWeb
