@@ -55,7 +55,7 @@ You can see more of my code snippets on [CodePen](https://codepen.io/poliweb)
 
 📖  **My education:**
 
-1. High Tech for Human High Tech for Human specialist, PHP Programming - 2008 Year.
+1. High Tech for Human specialist, PHP Programming - 2008 Year.
 
 2. Master JavaScript animation with Greensock 07.01.2023 from teacher Enzo Ustaris on Demes.  🏆 [Certificate](https://www.udemy.com/certificate/UC-acd51752-6eca-4856-8310-e023582f1440/)
 
