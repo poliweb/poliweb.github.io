@@ -7,11 +7,15 @@
 
 _Tel:_   **+7 701 721 1284** 
 
-My competence allows you to start a project with the development of a prototype and design in the Figma tool, deploy and code the project in VS Code, as well as use the Git version control system for the project. To deploy projects on the Internet, I use Netlify and Heroku servers, which allows faster delivery, simplified workflows and easy scaling.
+I am a web developer from Kazakhstan, the city of Alma-Ata. My experience is more than ten years. I like to follow the development of IT technologies and learn new knowledge every day with the opportunity to develop my web developer skills. My goal is to achieve excellence in writing code, to have a strong skill in developing world-class websites and web applications.
+
+My priority: _Lifelong learning and everyday practice in writing code for web applications with deep immersion in a working project..._
+
+My professional skills: **FIGMA, HTML5, CSS3, JS, Vue js, Nuxt js, Laravel, GitHub, Netlify, Heroku, Cloudinary Platform.**
 
 ![Web Developer PoliWeb](https://media.licdn.com/dms/image/C4E16AQGRKkfyQ33T3w/profile-displaybackgroundimage-shrink_350_1400/0/1589350631858?e=1683158400&v=beta&t=xJbuzT-uAQC5WdX1KgkDsIOhilk27bQwCw0n_gpRHKw)
 
-My professional skills: **FIGMA, HTML5, CSS3, JS, Vue js, Nuxt js, Laravel, GitHub, Netlify, Heroku, Cloudinary Platform.**
+
 
 *Think of me as an extension of your team.*
 
